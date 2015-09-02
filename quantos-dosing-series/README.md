@@ -7,4 +7,5 @@ Currently, the script is run with:
 
 It then writes out a file containing the list of mass pairs to interpolate between 100% compound 1 and 100% compound 2. The output filename is given in the yaml.
 
-An example yaml is provided in this directory and can be used as a template.  
+An example yaml is provided in this directory and can be used as a template. The output filename is optional, and the script will print the name of the file
+containing the output after running.  
