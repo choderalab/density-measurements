@@ -6,4 +6,4 @@ DMSO:
     mw: 78.13
 H2O:
     mw: 18.01528
-output_filename : densitytest.txt
+output_filename : density_output_example.txt

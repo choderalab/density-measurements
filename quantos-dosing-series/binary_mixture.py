@@ -32,7 +32,6 @@ def make_mixture_parameters(param_dict):
         fractions = np.linalg.solve([compound_mw_array,[1.0-frac, -1.0*frac]],[10, 0])
         output_mass[compound1][i] = fractions[0]*compound1_mw
         output_mass[compound2][i] = fractions[1]*compound2_mw
-        print(fractions[0]/(fractions[0]+fractions[1]))
     return output_mass
 
 def _calculate_mole_fraction(mol1, mol2):
