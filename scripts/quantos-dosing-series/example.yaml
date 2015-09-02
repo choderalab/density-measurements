@@ -1,0 +1,9 @@
+compound1_name : DMSO
+compound2_name : H2O
+n_fractions : 11 
+total_mass : 12 #grams
+DMSO:
+    mw: 78.13 #grams/mole
+H2O:
+    mw: 18.01528 #grams/mole
+output_filename : density_output_example.txt #optional
