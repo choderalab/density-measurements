@@ -1,0 +1,9 @@
+compound1_name : DMSO
+compound2_name : H2O
+n_fractions : 11
+total_mass : 12
+DMSO:
+    mw: 78.13
+H2O:
+    mw: 18.01528
+output_filename : densitytest.txt
