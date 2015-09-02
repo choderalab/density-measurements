@@ -79,6 +79,6 @@ if __name__=="__main__":
 	print("Writing output file to density_measurement_masses.txt")
     output_file.write("%s,%s\n" % (compound1, compound2))
     for i in range(param_dict['n_fractions']):
-        output_file.write("%f,%f\n" % (output_masses[compound1][i], output_masses[compound2][i]))
+        output_file.write("%f,%f\n" % (np.abs(output_masses[compound1][i]), np.abs(output_masses[compound2][i])))
     output_file.close()
 
