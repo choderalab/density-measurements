@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaskResult>
+  <Sample>
+    <SampleId
+      SampleId1=""
+      SampleId2=""
+      SampleId3=""
+      SampleId4=""
+      SampleId5=""
+      SampleId6=""
+      SampleId1Description=""
+      SampleId2Description=""
+      SampleId3Description=""
+      SampleId4Description=""
+      SampleId5Description=""
+      SampleId6Description=""
+      SampleTags="" />
+    <Task
+      Name="density1"
+      InternalId="T1231"
+      StartTime="2015-08-17T16:11:37"
+      EndTime="2015-08-17T16:15:06"
+      State="Completed" />
+    <Method
+      Name="Liquid Dosing in gram"
+      MethodId="Liquid (g)"
+      MethodInternalId="M11"
+      Version="7"
+      ReleaseState="Released"
+      IsApproved="False" />
+    <Product
+      Name=""
+      ProductId=""
+      InternalId=""
+      Version=""
+      ReleaseState=""
+      IsApproved="" />
+    <Account
+      LogonName="PredefinedUser"
+      FullName="Administrator" />
+    <Resultset
+      Approved="False" />
+    <ResultResult
+      Name="Convertinmg"
+      Title="Convert in mg"
+      Type="ResultResult"
+      Value="10000"
+      Unit="mg"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR"
+      InstrumentInternalId="I6" />
+    <ResultResult
+      Name="GetDate"
+      Title="Get Date"
+      Type="ResultResult"
+      Value="1059590411.821574692"
+      Unit=""
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR"
+      InstrumentInternalId="I6" />
+    <RequestTextResult
+      Name="Date"
+      Value="8/17/2015"
+      InstrumentInternalId="I6"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR" />
+    <RequestTextResult
+      Name="SampleID"
+      Value="density1"
+      InstrumentInternalId="I6"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR" />
+    <NumberResult
+      Name="TargetLiquid"
+      Value="10"
+      Unit="g"
+      InstrumentInternalId="I6"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR" />
+  </Sample>
+  <Sample>
+    <SampleId
+      SampleId1="01"
+      SampleId2=""
+      SampleId3=""
+      SampleId4=""
+      SampleId5=""
+      SampleId6=""
+      SampleId1Description="Sequence"
+      SampleId2Description="Sample ID"
+      SampleId3Description="Sample ID 3"
+      SampleId4Description="Sample ID 4"
+      SampleId5Description="Sample ID 5"
+      SampleId6Description="Sample ID 6"
+      SampleTags="" />
+    <Task
+      Name="density1"
+      InternalId="T1231"
+      StartTime="2015-08-17T16:11:37"
+      EndTime="2015-08-17T16:15:06"
+      State="Completed" />
+    <Method
+      Name="Liquid Dosing in gram"
+      MethodId="Liquid (g)"
+      MethodInternalId="M11"
+      Version="7"
+      ReleaseState="Released"
+      IsApproved="False" />
+    <Product
+      Name=""
+      ProductId=""
+      InternalId=""
+      Version=""
+      ReleaseState=""
+      IsApproved="" />
+    <Account
+      LogonName="PredefinedUser"
+      FullName="Administrator" />
+    <Resultset
+      Approved="False" />
+    <ResultResult
+      Name="LiquidDosedForResult"
+      Title="Liquid Dosed in g"
+      Type="ResultResult"
+      Value="9.9998"
+      Unit="g"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR"
+      InstrumentInternalId="I6" />
+    <RequestTextResult
+      Name="LotID"
+      Value="11.11.2018"
+      InstrumentInternalId="I6"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR" />
+    <RequestTextResult
+      Name="SubstanceName"
+      Value="milliQ water"
+      InstrumentInternalId="I6"
+      InstrumentLastAdjustmentDate="8/17/2015 9:01:07 AM"
+      InstrumentLastCalibrationDate=""
+      InstrumentName="Quantos"
+      InstrumentSerialNr="B135211870/B135211870/B427780156/B335719324"
+      InstrumentTypeInfo="QD206DR" />
+  </Sample>
+</TaskResult>
